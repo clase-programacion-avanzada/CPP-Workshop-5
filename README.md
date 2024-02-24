@@ -1,5 +1,5 @@
 
-# Taller 5 - Apuntadores y direcciones de memoria
+# Taller 5 - Apuntadores y memoria dinámica
 
 En este taller es obligatorio el uso de estructuras y funciones. Debe usar headers para evitar que el código se vea muy extenso, y ***no puede usar `cin` o `cout` en ninguna parte del código que no sea el archivo `main.cpp`.***
 
