@@ -37,6 +37,10 @@ struct List {
         return elements[index];
     }
 
+    T* getAddresOf(int index) {
+        return &elements[index];
+    }
+
     T set(int index, T element) {
         T oldElement = elements[index];
         elements[index] = element;
