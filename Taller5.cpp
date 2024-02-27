@@ -9,12 +9,13 @@ void printMenu();
 
 int main() {
     
-    printMenu();
-
+    
     int option = 0;
 
 
     do {
+        printMenu();
+
         cout << "Ingrese una opción: ";
         cin >> option;
 
