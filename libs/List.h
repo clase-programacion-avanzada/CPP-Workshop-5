@@ -5,6 +5,8 @@
 
 using namespace std;
 
+const int DEFAULT_CAPACITY = 5;
+
 template <typename T>
 struct List {
     T elements[100];
