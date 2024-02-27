@@ -37,7 +37,7 @@ struct List {
         return elements[index];
     }
 
-    T* getAddresOf(int index) {
+    T* getAddressOf(int index) {
         return &elements[index];
     }
 

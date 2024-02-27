@@ -12,7 +12,7 @@ En este taller es obligatorio el uso de estructuras y funciones. Debe usar heade
 Se le ha pedido que haga un programa que permita realizar lo siguiente, debe accederse a cada una de las funcionalidades a través de un menú. A continuación va a encontrar el detalle de cada funcionalidad:
 
 1. Crear una lista de números aleatorios de tamaño indicado por el usuario. (0.5)
-2. Crear una lista de apuntadores a enteros (int*) donde cada posición apunta a la dirección correspondiente a la de la lista original.(0.5)
+2. Crear una lista de apuntadores a enteros (int*) donde cada posición apunta a la dirección correspondiente a la de la lista original. Para obtener la dirección de un elemento es necesario usar el método getAddressOf(0.5)
 3. Crear una función que ordene la lista de apuntadores de acuerdo a los valores de la lista original.(0.5)
 4. Hacer una función que imprima la lista original.(0.5)
 5. Hacer una función que imprima el contenido de la lista de apuntadores.(0.5)
