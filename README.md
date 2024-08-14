@@ -4,7 +4,6 @@
 En este taller es obligatorio el uso de estructuras y funciones. Debe usar headers para evitar que el código se vea muy extenso, y ***no puede usar `cin` o `cout` en ninguna parte del código que no sea el archivo `main.cpp`.***
 
 
-
 ## Ordenamiento con apuntadores (2.5)
 
 **En este punto, cualquier función que realice debe recibir los parámetros por referencia**
@@ -51,4 +50,10 @@ La idea es la siguiente:
 
 Para finalizar, **cada función dentro de list donde se reciba como parámetro un elemento de tipo T** debe hacerlo por referencia, esto es para evitar hacer una copia de los objetos cuando son estructuras complejas o muy grandes. 
 
-Si necesita ver de forma más visual los algoritmos, puede encontrarlos en la parte izquierds del siguiente [miro board](https://miro.com/app/board/uXjVMYC93wc=/?share_link_id=770076763125).
+Si necesita ver de forma más visual los algoritmos, puede encontrarlos en la parte izquierda del siguiente [miro board](https://miro.com/app/board/uXjVMYC93wc=/?share_link_id=770076763125).
+
+## Recursos en línea
+
+- [Punteros: Explicación detallada](https://www.youtube.com/watch?v=s8T7cPnYrz0) [Video].
+- [New and delete operators in cpp](https://www.geeksforgeeks.org/new-and-delete-operators-in-cpp-for-dynamic-memory/) [Artículo].
+- [New operator c++](https://learn.microsoft.com/en-us/cpp/cpp/new-operator-cpp?view=msvc-170) [Artículo].
