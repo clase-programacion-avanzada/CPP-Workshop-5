@@ -57,3 +57,4 @@ Si necesita ver de forma más visual los algoritmos, puede encontrarlos en la pa
 - [Punteros: Explicación detallada](https://www.youtube.com/watch?v=s8T7cPnYrz0) [Video].
 - [New and delete operators in cpp](https://www.geeksforgeeks.org/new-and-delete-operators-in-cpp-for-dynamic-memory/) [Artículo].
 - [New operator c++](https://learn.microsoft.com/en-us/cpp/cpp/new-operator-cpp?view=msvc-170) [Artículo].
+- [Punteros en C: taller completo para principiantes](https://www.youtube.com/watch?v=lR3DQV0uvQ8) [Video].
